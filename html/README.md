@@ -1,3 +1,3 @@
-# cs50_web
+# cs50_web HTML
 
-#### This is the respository where I take notes from CS50_Web Programming
+#### This file use some basic features of HTML
