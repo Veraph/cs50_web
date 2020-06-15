@@ -1,9 +1,21 @@
+body{
+    background-color: cornsilk;
+    margin-top: 10px;
+}
+
 .catimg{
     display: block;
     margin:auto;
     border-radius: 8px;
     width: 25%;
     height: 25%;
+}
+
+.content{
+    font-size: 13px;
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .cells{
@@ -13,4 +25,11 @@
 
 .cells a{
     text-decoration:none;
+}
+
+.copyright{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-size: 10px;
 }
