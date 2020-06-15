@@ -1,0 +1,16 @@
+.catimg{
+    display: block;
+    margin:auto;
+    border-radius: 8px;
+    width: 25%;
+    height: 25%;
+}
+
+.cells{
+    width: 100%;
+    text-align: center;
+}
+
+.cells a{
+    text-decoration:none;
+}
